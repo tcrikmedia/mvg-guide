@@ -8,7 +8,7 @@
 
 Because MVG operates on a strict **Zero-Knowledge Architecture**, all processing happens 100% locally on your physical device. Ensure you complete the setup entirely to properly shield your system.
 
-1. **Download the App:** Install the official version directly from the [Google Play Store](https://google.com).
+1. **Download the App:** Install the official version directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard).
 2. **Initialize Master User:** Upon launching the app for the first time, you must set up the **Master User**. This account acts as the primary Administrator of the telephone.
    * *Note: By default, this account is assigned **Clearance Level 5**, and all applications on your phone will automatically lock to ensure immediate security.*
 3. **Complete Registration Form:** Fill out the registration form with all required information. Make sure to record your master credentials securely offline.

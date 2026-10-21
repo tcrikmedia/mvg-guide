@@ -8,7 +8,7 @@
 
 Étant donné que MVG fonctionne sur une **architecture stricte à connaissance zéro (Zero-Knowledge)**, l'intégralité du traitement s'effectue à 100 % localement sur votre appareil. Veuillez suivre l'ensemble de ces étapes pour activer le bouclier de sécurité.
 
-1. **Télécharger l'application :** Installez la version officielle directement depuis le [Google Play Store](https://google.com).
+1. **Télécharger l'application :** Installez la version officielle directement depuis le [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard).
 2. **Initialiser l'utilisateur maître :** Lors du premier lancement, vous devez configurer l'**Utilisateur Maître (Master User)**. Ce compte fera office d'Administrateur principal du téléphone.
    * *Remarque : Par défaut, ce compte dispose du **niveau d'habilitation 5** (Clearance Level 5), et toutes les applications du téléphone seront automatiquement verrouillées pour une sécurité immédiate.*
 3. **Remplir le formulaire :** Complétez le formulaire d'inscription avec toutes les informations requises. Veillez à noter vos identifiants maîtres en lieu sûr et hors ligne.
