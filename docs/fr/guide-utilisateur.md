@@ -31,16 +31,47 @@ Pour activer le bouclier de confidentialité, vous devez explicitement accorder 
 
 Découvrez l'interface de MVG. Les captures d'écran ci-dessous sont chargées directement depuis le dossier de votre dépôt local.
 
-<p align="center">
-  <img src="../../images/fr/login.jpg" width="28%" alt="Écran de login" />
-  <img src="../../images/fr/dashboardzero.jpg" width="28%" alt="Accepter et configurer" />
-  <img src="../../images/fr/dashboardbefore.jpg" width="28%" alt="Dashboard avec configues desactivées" />
-  <img src="../../images/fr/dashboardafter.jpg" width="28%" alt="Dashboard avec configues activées" />
-  <img src="../../images/en/accessibility1.jpg" width="28%" alt="Activer VaultGuard dans accessibility - Étape 1" />
-  <img src="../../images/en/accessibility2.jpg" width="28%" alt="Activer VaultGuard dans accessibility - Étape 2" />
-  <img src="../../images/en/accessibility3.jpg" width="28%" alt="Activer VaultGuard dans accessibility - Étape 3" />
-  <img src="../../images/en/activateadmin.jpg" width="28%" alt="Activer la configuration administrateur" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="../../images/fr/login.jpg" width="100%" alt="Écran de connexion" /><br />
+      <b>Étape 1</b><br />Se connecter
+    </td>
+    <td align="center" width="33%">
+      <img src="../../images/fr/dashboardzero.jpg" width="100%" alt="Écran Accepter et configurer" /><br />
+      <b>Étape 2</b><br />Appuyer sur Accepter et configurer
+    </td>
+    <td align="center" width="33%">
+      <img src="../../images/fr/dashboardbefore.jpg" width="100%" alt="Tableau de bord avec la configuration désactivée" /><br />
+      <b>Étape 3</b><br />Tableau de bord avant l'activation de la configuration
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../../images/en/accessibility1.jpg" width="100%" alt="Activer VaultGuard dans Accessibilité, partie 1" /><br />
+      <b>Étape 4a</b><br />Ouvrir les paramètres d'accessibilité
+    </td>
+    <td align="center">
+      <img src="../../images/en/accessibility2.jpg" width="100%" alt="Activer VaultGuard dans Accessibilité, partie 2" /><br />
+      <b>Étape 4b</b><br />Sélectionner VaultGuard
+    </td>
+    <td align="center">
+      <img src="../../images/en/accessibility3.jpg" width="100%" alt="Activer VaultGuard dans Accessibilité, partie 3" /><br />
+      <b>Étape 4c</b><br />Activer le service
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../../images/en/activateadmin.jpg" width="100%" alt="Activer la configuration administrateur" /><br />
+      <b>Étape 5</b><br />Activer la configuration administrateur
+    </td>
+    <td align="center">
+      <img src="../../images/fr/dashboardafter.jpg" width="100%" alt="Tableau de bord avec la configuration activée" /><br />
+      <b>Étape 6</b><br />Tableau de bord après l'activation de la configuration
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 

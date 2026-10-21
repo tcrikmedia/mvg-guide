@@ -31,16 +31,47 @@ To activate your zero-knowledge privacy shield, you must explicitly grant permis
 
 Explore the interface of MVG. All screens visualized below load directly from your local repository assets.
 
-<p align="center">
-  <img src="../../images/en/login.jpg" width="28%" alt="Login Screen" />
-  <img src="../../images/en/dashboardzero.jpg" width="28%" alt="Accept and Configured" />
-  <img src="../../images/en/dashboardbefore.jpg" width="28%" alt="Dashboard with configs disabled" />
-  <img src="../../images/en/dashboardafter.jpg" width="28%" alt="Dashboard with configs enabled" />
-  <img src="../../images/en/accessibility1.jpg" width="28%" alt="Activate VaultGuard from accessibility - Step 1" />
-  <img src="../../images/en/accessibility2.jpg" width="28%" alt="Activate VaultGuard from accessibility - Step 2" />
-  <img src="../../images/en/accessibility3.jpg" width="28%" alt="Activate VaultGuard from accessibility - Step 3" />
-  <img src="../../images/en/activateadmin.jpg" width="28%" alt="Activate administrator configuration" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="../../images/en/login.jpg" width="100%" alt="Login screen" /><br />
+      <b>Step 1</b><br />Log in
+    </td>
+    <td align="center" width="33%">
+      <img src="../../images/en/dashboardzero.jpg" width="100%" alt="Accept and configure screen" /><br />
+      <b>Step 2</b><br />Press Accept and Configure
+    </td>
+    <td align="center" width="33%">
+      <img src="../../images/en/dashboardbefore.jpg" width="100%" alt="Dashboard with configs disabled" /><br />
+      <b>Step 3</b><br />Dashboard before enabling the configuration
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../../images/en/accessibility1.jpg" width="100%" alt="Activate VaultGuard in Accessibility, part 1" /><br />
+      <b>Step 4a</b><br />Open Accessibility settings
+    </td>
+    <td align="center">
+      <img src="../../images/en/accessibility2.jpg" width="100%" alt="Activate VaultGuard in Accessibility, part 2" /><br />
+      <b>Step 4b</b><br />Select VaultGuard
+    </td>
+    <td align="center">
+      <img src="../../images/en/accessibility3.jpg" width="100%" alt="Activate VaultGuard in Accessibility, part 3" /><br />
+      <b>Step 4c</b><br />Turn the service on
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../../images/en/activateadmin.jpg" width="100%" alt="Activate administrator configuration" /><br />
+      <b>Step 5</b><br />Activate the administrator configuration
+    </td>
+    <td align="center">
+      <img src="../../images/en/dashboardafter.jpg" width="100%" alt="Dashboard with configs enabled" /><br />
+      <b>Step 6</b><br />Dashboard after enabling the configuration
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
