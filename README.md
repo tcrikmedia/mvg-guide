@@ -34,13 +34,13 @@ Please open the complete, easy-to-read guide below:
 ### ❓ Frequently Asked Questions (FAQ)
 
 **Q: Does MVG slow down my phone or drain the battery?**  
-A: No. MVG runs 100% locally on your device using highly optimized Android security APIs, ensuring zero cloud overhead or battery drain.
+A: No. MVG runs 100% locally on your device without using cloud servers, ensuring zero battery drain or slowdown.
 
 **Q: What happens if I forget my password and secret questions?**  
-A: Because MVG uses a strict Zero-Knowledge offline architecture, your credentials are never stored on any cloud server. If both are forgotten, account recovery is impossible. Please keep your master password safely recorded offline.
+A: Because your phone keeps all data 100% private and offline, **we do not store your password on any server**. If you lose both your password and secret questions, **we cannot recover your account for you**. Please write down your password and keep it in a safe place.
 
 **Q: Are my personal photos or data sent to external servers?**  
-A: Never. All files, photos, and access logs stay strictly on your physical device.
+A: Never. All files, photos, and access logs stay strictly on your physical phone.
 
 ---
 
@@ -70,13 +70,13 @@ Veuillez consulter le guide complet ci-dessous :
 ### ❓ Foire aux questions (FAQ)
 
 **Q : Est-ce que MVG ralentit mon téléphone ou consomme de la batterie ?**  
-A : Non. MVG fonctionne à 100 % localement sur votre appareil grâce à des API Android optimisées, sans aucune surcharge liée au cloud.
+A : Non. MVG fonctionne à 100 % localement sur votre appareil sans utiliser de serveurs cloud, garantissant zéro consommation de batterie.
 
 **Q : Que se passe-t-il si j'oublie mon mot de passe et mes questions secrètes ?**  
-A : Étant donné que MVG utilise une architecture Zero-Knowledge hors ligne, vos identifiants ne sont jamais stockés sur un serveur cloud. En cas d'oubli des deux, la récupération est impossible. Veuillez noter votre mot de passe en lieu sûr hors ligne.
+A : Comme votre téléphone garde toutes vos données 100 % hors ligne et privées, **nous ne stockons pas votre mot de passe sur un serveur**. Si vous oubliez à la fois votre mot de passe et vos questions secrètes, **nous ne pouvons pas récupérer votre compte pour vous**. Veuillez noter votre mot de passe et le conserver en lieu sûr.
 
 **Q : Mes photos personnelles ou mes données sont-elles envoyées sur des serveurs externes ?**  
-A : Jamais. Tous vos fichiers, photos et journaux d'accès restent strictement sur votre appareil physique.
+A : Jamais. Tous vos fichiers, photos et journaux d'accès restent strictement sur votre téléphone.
 
 ---
 
