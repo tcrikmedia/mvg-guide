@@ -2,13 +2,13 @@
 
 <!-- Language Selector / Sélecteur de langue -->
 <p align="center">
-  <a href="#-english">🇺🇸 English</a> • 
-  <a href="#-français">🇫🇷 Français</a>
+  <a href="#-english">English</a> • 
+  <a href="#-français">Français</a>
 </p>
 
 ---
 
-## 🇺🇸 English
+## English
 
 ### The Ultimate Zero-Knowledge Privacy Shield
 Protect your digital life with **Mobile Vault Guard (MVG)**, the advanced security vault for Android. Designed to keep your data private and secure, MVG ensures your files and apps remain 100% local and under your control.
@@ -44,7 +44,7 @@ A: Never. All files, photos, and access logs stay strictly on your physical phon
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### Le bouclier de confidentialité ultime à connaissance zéro
 Protégez votre vie numérique avec **Mobile Vault Guard (MVG)**, le coffre-fort de sécurité avancé pour Android. Conçu pour garder vos données privées, MVG garantit que vos fichiers et applications restent à 100 % locaux et sous votre contrôle.

@@ -1,4 +1,4 @@
-# 🇫🇷 Mobile Vault Guard (MVG) - Guide d'utilisation
+# Mobile Vault Guard (MVG) - Guide d'utilisation
 
 [← Retour au README principal](../../README.md)
 
