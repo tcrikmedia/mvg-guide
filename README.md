@@ -13,6 +13,8 @@
 ### The Ultimate Zero-Knowledge Privacy Shield
 Protect your digital life with **Mobile Vault Guard (MVG)**, the advanced security vault for Android. Designed to keep your data private and secure, MVG ensures your files and apps remain 100% local and under your control.
 
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
+
 ### Why Choose Mobile Vault Guard?
 MVG works entirely offline on your phone (Zero-Knowledge Architecture). We have no cloud servers, we never store your passwords, and we never access your files. Everything is encrypted directly on your device.
 
@@ -34,6 +36,8 @@ Please open the complete, easy-to-read guide below:
 ### Le bouclier de confidentialité ultime à connaissance zéro
 Protégez votre vie numérique avec **Mobile Vault Guard (MVG)**, le coffre-fort de sécurité avancé pour Android. Conçu pour garder vos données privées, MVG garantit que vos fichiers et applications restent à 100 % locaux et sous votre contrôle.
 
+[![Disponible sur Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
+
 ### Pourquoi choisir Mobile Vault Guard ?
 MVG fonctionne entièrement hors ligne sur votre téléphone (architecture Zero-Knowledge). Nous n'avons pas de serveurs cloud, nous ne stockons jamais vos mots de passe et nous n'accédons jamais à vos fichiers. Tout est chiffré directement sur votre appareil.
 
@@ -51,5 +55,6 @@ Veuillez consulter le guide complet ci-dessous :
 ---
 
 ## 📬 Support & Feedback / Assistance
+* **Official App Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
 * **GitHub:** [Open an Issue / Signaler un problème](../../issues)
 * **Email:** tcrikmediasecurity@gmail.com
