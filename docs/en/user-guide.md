@@ -2,13 +2,15 @@
 
 [← Back to Main README](../../README.md)
 
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
+
 ---
 
 ## 🚀 1. Initial Installation & Setup
 
 Because MVG works 100% offline on your phone (Zero-Knowledge), all your data stays private on your device. Follow these easy steps:
 
-1. **Download the App:** Install Mobile Vault Guard from the Google Play Store.
+1. **Download the App:** Install Mobile Vault Guard directly from the [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard).
 2. **Set Up Your Master Account:** When you open the app for the first time, create your main Admin account. 
    * *Note: This admin account gets Level 5 clearance, which locks all apps right away to keep your phone safe.*
 3. **Fill the Form:** Enter your username, password, and secret recovery question. Keep your answers safe offline.

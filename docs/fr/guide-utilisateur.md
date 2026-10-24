@@ -2,13 +2,15 @@
 
 [← Retour au README principal](../../README.md)
 
+[![Disponible sur Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
+
 ---
 
 ## 🚀 1. Installation initiale et configuration
 
 Parce que MVG fonctionne 100 % hors ligne sur votre téléphone (Zero-Knowledge), toutes vos données restent privées sur votre appareil. Suivez ces étapes simples :
 
-1. **Télécharger l'application :** Installez Mobile Vault Guard depuis le Google Play Store.
+1. **Télécharger l'application :** Installez Mobile Vault Guard directement depuis le [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard).
 2. **Créer le compte maître :** Lors du premier lancement, créez votre compte administrateur principal. 
    * *Remarque : Ce compte maître obtient le niveau d'habilitation 5, ce qui verrouille immédiatement toutes les applications pour protéger votre téléphone.*
 3. **Remplir le formulaire :** Entrez votre nom d'utilisateur, votre mot de passe et votre question secrète de récupération. Conservez ces informations en lieu sûr hors ligne.
