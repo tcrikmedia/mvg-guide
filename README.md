@@ -31,6 +31,19 @@ Please open the complete, easy-to-read guide below:
 
 ---
 
+### ❓ Frequently Asked Questions (FAQ)
+
+**Q: Does MVG slow down my phone or drain the battery?**  
+A: No. MVG runs 100% locally on your device using highly optimized Android security APIs, ensuring zero cloud overhead or battery drain.
+
+**Q: What happens if I forget my password and secret questions?**  
+A: Because MVG uses a strict Zero-Knowledge offline architecture, your credentials are never stored on any cloud server. If both are forgotten, account recovery is impossible. Please keep your master password safely recorded offline.
+
+**Q: Are my personal photos or data sent to external servers?**  
+A: Never. All files, photos, and access logs stay strictly on your physical device.
+
+---
+
 ## 🇫🇷 Français
 
 ### Le bouclier de confidentialité ultime à connaissance zéro
@@ -51,6 +64,19 @@ Avec MVG, vous pouvez :
 Veuillez consulter le guide complet ci-dessous :
 
 * 🗺️ **[Guide d'utilisation en Français](./docs/fr/guide-utilisateur.md)**
+
+---
+
+### ❓ Foire aux questions (FAQ)
+
+**Q : Est-ce que MVG ralentit mon téléphone ou consomme de la batterie ?**  
+A : Non. MVG fonctionne à 100 % localement sur votre appareil grâce à des API Android optimisées, sans aucune surcharge liée au cloud.
+
+**Q : Que se passe-t-il si j'oublie mon mot de passe et mes questions secrètes ?**  
+A : Étant donné que MVG utilise une architecture Zero-Knowledge hors ligne, vos identifiants ne sont jamais stockés sur un serveur cloud. En cas d'oubli des deux, la récupération est impossible. Veuillez noter votre mot de passe en lieu sûr hors ligne.
+
+**Q : Mes photos personnelles ou mes données sont-elles envoyées sur des serveurs externes ?**  
+A : Jamais. Tous vos fichiers, photos et journaux d'accès restent strictement sur votre appareil physique.
 
 ---
 
