@@ -11,19 +11,19 @@
 ## 🇺🇸 English
 
 ### The Ultimate Zero-Knowledge Privacy Shield
-Protect your digital life with **Mobile Vault Guard (MVG)**, the most advanced, military-grade security vault for Android. Designed for professionals and privacy-conscious users, MVG provides impenetrable protection for your sensitive files and applications—ensuring your data remains 100% local and under your exclusive control.
+Protect your digital life with **Mobile Vault Guard (MVG)**, the advanced security vault for Android. Designed to keep your data private and secure, MVG ensures your files and apps remain 100% local and under your control.
 
 ### Why Choose Mobile Vault Guard?
-Unlike standard "secure" apps, MVG operates on a strict Zero-Knowledge Architecture. We have no central servers, we never store your passwords, and we never access your files. Everything is encrypted directly on your device using hardware-backed security, meaning only you hold the keys to your digital vault.
+MVG works entirely offline on your phone (Zero-Knowledge Architecture). We have no cloud servers, we never store your passwords, and we never access your files. Everything is encrypted directly on your device.
 
 With MVG, you can:
-* **Prevent Unauthorized Access:** Fully lock down and secure your phone from unwanted eyes.
-* **Lock Any Application:** Secure individual apps on your device with an extra layer of protection.
-* **Child-Proof Your Device:** Easily restrict access so your kids can only open the specific applications you approve.
-* **Protect Confidential Data:** Safeguard your most sensitive information, including private pictures, personal files, and secret notes.
+* **Prevent Unauthorized Access:** Lock down and secure your phone from unwanted eyes.
+* **Lock Any Application:** Secure individual apps with password or clearance protection.
+* **Child-Proof Your Device:** Restrict app access so family members only open approved apps.
+* **Protect Private Data:** Safeguard personal pictures, documents, emails, and banking apps.
 
 ### 📖 User Documentation
-To view full configuration steps, onboarding setup guides, and comprehensive feature breakdowns, please open the dedicated guide below:
+Please open the complete, easy-to-read guide below:
 
 * 🗺️ **[English User Guide](./docs/en/user-guide.md)**
 
@@ -32,19 +32,19 @@ To view full configuration steps, onboarding setup guides, and comprehensive fea
 ## 🇫🇷 Français
 
 ### Le bouclier de confidentialité ultime à connaissance zéro
-Protégez votre vie numérique avec **Mobile Vault Guard (MVG)**, le coffre-fort de sécurité de qualité militaire le plus avancé pour Android. Conçu pour les professionnels et les utilisateurs soucieux de leur confidentialité, MVG offre une protection impénétrable pour vos fichiers et applications sensibles, garantissant que vos données restent à 100 % locales et sous votre contrôle exclusif.
+Protégez votre vie numérique avec **Mobile Vault Guard (MVG)**, le coffre-fort de sécurité avancé pour Android. Conçu pour garder vos données privées, MVG garantit que vos fichiers et applications restent à 100 % locaux et sous votre contrôle.
 
 ### Pourquoi choisir Mobile Vault Guard ?
-Contrairement aux applications « sécurisées » standard, MVG fonctionne sur une architecture stricte à connaissance zéro (Zero-Knowledge). Nous n'avons pas de serveurs centraux, nous ne stockons jamais vos mots de passe et nous n'accédons jamais à vos fichiers. Tout est chiffré directement sur votre appareil à l'aide d'une sécurité assistée par le matériel, ce qui signifie que vous seul détenez les clés de votre coffre-fort numérique.
+MVG fonctionne entièrement hors ligne sur votre téléphone (architecture Zero-Knowledge). Nous n'avons pas de serveurs cloud, nous ne stockons jamais vos mots de passe et nous n'accédons jamais à vos fichiers. Tout est chiffré directement sur votre appareil.
 
 Avec MVG, vous pouvez :
-* **Empêcher les accès non autorisés :** Verrouillez et sécurisez entièrement votre téléphone contre les regards indiscrets.
-* **Bloquer n'importe quelle application :** Sécurisez les applications de votre choix avec une couche de protection supplémentaire.
-* **Sécuriser l'accès pour les enfants :** Limitez facilement l'accès pour que vos enfants ne puissent ouvrir que les applications que vous approuvez.
-* **Protéger vos données confidentielles :** Sauvegardez vos informations les plus sensibles, y compris vos photos privées, fichiers personnels et notes secrètes.
+* **Empêcher les accès non autorisés :** Verrouillez et sécurisez votre téléphone.
+* **Bloquer n'importe quelle application :** Sécurisez les applications de votre choix.
+* **Protéger vos enfants :** Limitez l'accès aux seules applications approuvées.
+* **Protéger vos données :** Sauvegardez vos photos privées, e-mails et applications bancaires.
 
 ### 📖 Documentation d'utilisation
-Pour consulter les étapes complètes de configuration, les guides d'installation et la présentation détaillée des fonctionnalités, veuillez ouvrir le guide dédié ci-dessous :
+Veuillez consulter le guide complet ci-dessous :
 
 * 🗺️ **[Guide d'utilisation en Français](./docs/fr/guide-utilisateur.md)**
 
@@ -53,4 +53,3 @@ Pour consulter les étapes complètes de configuration, les guides d'installatio
 ## 📬 Support & Feedback / Assistance
 * **GitHub:** [Open an Issue / Signaler un problème](../../issues)
 * **Email:** tcrikmediasecurity@gmail.com
-
