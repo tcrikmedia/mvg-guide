@@ -86,4 +86,4 @@ A : Jamais. Tous vos fichiers, photos et journaux d'accès restent strictement s
 * **Official App Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
 * **GitHub:** [Open an Issue / Signaler un problème](../../issues)
 * **Terms of Use / Conditions d'utilisation:** [mvg-help.tcrik.com/terms.html](https://mvg-help.tcrik.com/terms.html)
-* **Email:** tcrikmediasecurity@gmail.com
+* **Email:** support@tcrik.com
