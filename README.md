@@ -28,6 +28,7 @@ With MVG, you can:
 Please open the complete, easy-to-read guide below:
 
 * 🗺️ **[English User Guide](./docs/en/user-guide.md)**
+* 📄 **[Terms of Use](https://mvg-help.tcrik.com/terms.html)**
 
 ---
 
@@ -64,6 +65,7 @@ Avec MVG, vous pouvez :
 Veuillez consulter le guide complet ci-dessous :
 
 * 🗺️ **[Guide d'utilisation en Français](./docs/fr/guide-utilisateur.md)**
+* 📄 **[Conditions d'utilisation](https://mvg-help.tcrik.com/terms.html)**
 
 ---
 
@@ -83,4 +85,5 @@ A : Jamais. Tous vos fichiers, photos et journaux d'accès restent strictement s
 ## 📬 Support & Feedback / Assistance
 * **Official App Link:** [Google Play Store](https://play.google.com/store/apps/details?id=com.cg.vaultguard)
 * **GitHub:** [Open an Issue / Signaler un problème](../../issues)
+* **Terms of Use / Conditions d'utilisation:** [mvg-help.tcrik.com/terms.html](https://mvg-help.tcrik.com/terms.html)
 * **Email:** tcrikmediasecurity@gmail.com
